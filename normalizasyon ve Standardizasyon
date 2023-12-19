@@ -1,0 +1,5 @@
+Normalizasyon, verileri 0 ve 1 arasında yeniden ölçekler. Bu işlem tüm parametrelerin aynı pozitif ölçeğe sahip olması gereken bazı durumlarda yararlı olabilir. 
+Ancak aykırı değerlerin (outliers) kaybolmasına yol açar.
+En sık kullanılan normalizasyon yöntemlerinden biri olan Feature Scaling, (Özellik Ölçekleme veya Min-Max Normalizasyonu) normal dağılımı esas alır ve 
+her bir değerin ortalamadan olan uzaklığının standart sapmaya oranı ile bulunur. Bu metot ile değişkenlerin farklı ortalamalarda ve standart sapmaya sahip olmasına izin verilir
+ancak aynı aralıkta olmaları şartıyla.
